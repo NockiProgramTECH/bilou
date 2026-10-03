@@ -6,3 +6,6 @@
 3. [x] Ensure sidebar positioning doesn't cause issues (already hidden on mobile)
 4. [x] Test responsiveness - Site is fully responsive across devices with modern breakpoints and fluid scaling
 5. [x] Complete task
+
+6. [X Test lankaonde enock aecvec codetogtthether6*7. [X]
+k bien recu 
